@@ -122,11 +122,11 @@ struct NewPage: View {
                 "Last name"    : lastnameDB ,
                 "company"      : companyDB ,
                 "Phone Number" : phoneDB ,
-                "email"        : emailDB ,
-                "url"          : urlDB ,
-                "address"      : addressDB ,
-                "birthday"     : birthdayDB ,
-                "note"         : noteDB ,
+                "email "        : emailDB ,
+                "url "          : urlDB ,
+                "address "      : addressDB ,
+                "birthday "     : birthdayDB ,
+                "note "         : noteDB ,
             ])
     }
     
